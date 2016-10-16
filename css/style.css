@@ -500,7 +500,7 @@ article .container .row .video-container embed {
   margin-top: 0;
 }
 article .container .row blockquote {
-  font-family: "Georgia", serif;
+  font-family: font-serif;
   font-size: 1em;
   padding: 3px 30px 15px;
   color: #808080;
@@ -532,7 +532,7 @@ article .container .row .pullquote.left {
 }
 figure.highlight {
   background: #eee;
-  border: 1px solid #ddd;
+  border: 1px solid #fff;
   margin-top: 15px;
   padding: 7px 15px;
   border-radius: 2px;
@@ -543,8 +543,8 @@ figure.highlight {
   font-size: 0.9em;
 }
 figure.highlight figcaption {
-  color: #999;
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  color: #919191;
+  font-family: font-mono;
   margin-bottom: 5px;
   text-shadow: 0 0 1px #fff;
 }
@@ -563,9 +563,9 @@ figure.highlight table {
   border-spacing: 0;
 }
 figure.highlight table .gutter {
-  color: #999;
+  color: #919191;
   padding-right: 15px;
-  border-right: 1px solid #ddd;
+  border-right: 1px solid #fff;
   text-align: right;
 }
 figure.highlight table .code {
