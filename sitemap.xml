@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/creation/index.html</loc>
+    
+    <lastmod>2016-10-17T18:14:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/thoughts/index.html</loc>
+    
+    <lastmod>2016-10-17T17:55:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/reading/index.html</loc>
+    
+    <lastmod>2016-10-17T17:55:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/documentary/index.html</loc>
+    
+    <lastmod>2016-10-17T17:54:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/10/16/%E8%8A%B1%E9%97%B4%E4%BD%8F/</loc>
     
     <lastmod>2016-10-17T06:53:19.000Z</lastmod>
