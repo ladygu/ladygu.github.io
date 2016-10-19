@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/10/18/%E7%BE%8E%E8%B2%8C/</loc>
+    <loc>http://yoursite.com/2016/10/15/not_now/</loc>
+    
+    <lastmod>2016-10-19T06:30:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/1990/10/16/thoughts/</loc>
+    
+    <lastmod>2016-10-19T06:27:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/1990/10/15/documentary/</loc>
+    
+    <lastmod>2016-10-19T06:26:06.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/10/18/beauty/</loc>
     
     <lastmod>2016-10-19T05:56:03.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/10/16/thoughts/</loc>
-    
-    <lastmod>2016-10-17T06:53:19.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/10/15/documentary/</loc>
-    
-    <lastmod>2016-10-17T06:52:32.000Z</lastmod>
     
   </url>
   
