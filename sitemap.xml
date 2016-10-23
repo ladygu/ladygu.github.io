@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/10/10/huajianzhu/</loc>
+    <loc>http://yoursite.com/2016/10/22/time/</loc>
     
-    <lastmod>2016-10-23T04:19:56.000Z</lastmod>
+    <lastmod>2016-10-23T04:28:37.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/10/22/time/</loc>
+    <loc>http://yoursite.com/1990/10/16/thoughts/</loc>
     
-    <lastmod>2016-10-23T04:14:46.000Z</lastmod>
+    <lastmod>2016-10-23T04:26:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/10/10/huajianzhu/</loc>
+    
+    <lastmod>2016-10-23T04:22:40.000Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://yoursite.com/2016/10/15/not_now/</loc>
     
     <lastmod>2016-10-19T06:30:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/1990/10/16/thoughts/</loc>
-    
-    <lastmod>2016-10-19T06:27:49.000Z</lastmod>
     
   </url>
   
