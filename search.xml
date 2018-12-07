@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[读书笔记2]]></title>
-      <url>http://iamheng.com/blog/blog/2018/12/06/read2/</url>
+      <url>http://example.org/2018/12/06/read2/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>一些test的文字</p>
@@ -41,7 +41,7 @@
     
     <entry>
       <title><![CDATA[读书笔记]]></title>
-      <url>http://iamheng.com/blog/blog/2018/12/06/read/</url>
+      <url>http://example.org/2018/12/06/read/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>一些test的文字</p>
@@ -77,7 +77,7 @@
     
     <entry>
       <title><![CDATA[New Test]]></title>
-      <url>http://iamheng.com/blog/blog/2018/12/06/note/</url>
+      <url>http://example.org/2018/12/06/note/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>如果你不幸点到此文，如果你决定浪费你的时间，那么请你看下去，因为你将会看到的是不知所云的闲散牢骚。</p>
@@ -114,7 +114,7 @@
     
     <entry>
       <title><![CDATA[New Test2]]></title>
-      <url>http://iamheng.com/blog/blog/2018/12/06/note2/</url>
+      <url>http://example.org/2018/12/06/note2/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>一些test的文字</p>
@@ -150,7 +150,7 @@
     
     <entry>
       <title><![CDATA[New Start]]></title>
-      <url>http://iamheng.com/blog/blog/2018/12/06/newstart/</url>
+      <url>http://example.org/2018/12/06/newstart/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>如果你不幸点到此文，如果你决定浪费你的时间，那么请你看下去，因为你将会看到的是不知所云的闲散牢骚。</p>
@@ -187,7 +187,7 @@
     
     <entry>
       <title><![CDATA[无形]]></title>
-      <url>http://iamheng.com/blog/blog/2016/10/25/noshape/</url>
+      <url>http://example.org/2016/10/25/noshape/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center">大音希声，大象无形。<br><br><strong>老子《道德经》</strong></blockquote>
 
 <a id="more"></a>
@@ -217,7 +217,7 @@
     
     <entry>
       <title><![CDATA[我的时间分块]]></title>
-      <url>http://iamheng.com/blog/blog/2016/10/22/time/</url>
+      <url>http://example.org/2016/10/22/time/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center">所谓教育，是指自我教育。一切外在的教育，是为自我教育服务的。试想，自我教育失败，外在教育有什么用? 凡人没有自我教育。所谓超人，是指超越自己，不断不断超越自己。<br><br><strong>木心《文学回忆录》</strong></blockquote>
 
 <a id="more"></a>
@@ -260,7 +260,7 @@
     
     <entry>
       <title><![CDATA[美貌]]></title>
-      <url>http://iamheng.com/blog/blog/2016/10/18/beauty/</url>
+      <url>http://example.org/2016/10/18/beauty/</url>
       <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
 <p>如果你不幸点到此文，如果你决定浪费你的时间，那么请你看下去，因为你将会看到的是不知所云的闲散牢骚。</p>
@@ -297,7 +297,7 @@
     
     <entry>
       <title><![CDATA[当下？]]></title>
-      <url>http://iamheng.com/blog/blog/2016/10/15/not_now/</url>
+      <url>http://example.org/2016/10/15/not_now/</url>
       <content type="html"><![CDATA[<p>早些时候时常会听到用烂了的自我安慰或是安慰他人特别奏效的一句话叫做</p>
 <blockquote>
 <p>活在当下</p>
@@ -320,7 +320,7 @@
     
     <entry>
       <title><![CDATA[花间住]]></title>
-      <url>http://iamheng.com/blog/blog/2016/10/10/huajianzhu/</url>
+      <url>http://example.org/2016/10/10/huajianzhu/</url>
       <content type="html"><![CDATA[<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 -->
 <!-- 其中 class="blockquote-center" 是必须的 -->
   <blockquote class="blockquote-center">高柳垂阴，老鱼吹浪，留我花间住<br><br><strong>宋•姜夔《念奴娇》</strong></blockquote>
@@ -339,7 +339,7 @@
     
     <entry>
       <title><![CDATA[脑筋回路]]></title>
-      <url>http://iamheng.com/blog/blog/1990/10/16/thoughts/</url>
+      <url>http://example.org/1990/10/16/thoughts/</url>
       <content type="html"><![CDATA[<h1 id="无形"><a href="#无形" class="headerlink" title="无形"></a><a href="/2016/10/25/noshape/">无形</a></h1><blockquote class="blockquote-center">大音希声，大象无形。<br><br><strong>老子《道德经》</strong></blockquote>
 
 <h1 id="我的时间分块"><a href="#我的时间分块" class="headerlink" title="我的时间分块"></a><a href="/2016/10/22/time/">我的时间分块</a></h1><blockquote class="blockquote-center">所谓教育，是指自我教育。一切外在的教育，是为自我教育服务的。试想，自我教育失败，外在教育有什么用？<br>凡人没有自我教育。所谓超人，是指超越自己，不断不断超越自己。<br><br><strong>木心《文学回忆录》</strong></blockquote>
@@ -353,7 +353,7 @@
     
     <entry>
       <title><![CDATA[记忆碎片]]></title>
-      <url>http://iamheng.com/blog/blog/1990/10/15/documentary/</url>
+      <url>http://example.org/1990/10/15/documentary/</url>
       <content type="html"><![CDATA[<h1 id="Uber-amp-Lyft-amp-美貌"><a href="#Uber-amp-Lyft-amp-美貌" class="headerlink" title="Uber&amp;Lyft&amp;美貌"></a><a href="/2016/10/18/beauty/">Uber&amp;Lyft&amp;美貌</a></h1><p><br></p>
 <blockquote class="blockquote-center"><strong>爱美之心，人皆有之。</strong></blockquote>
 
